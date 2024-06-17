@@ -1,0 +1,45 @@
+[
+
+    {
+        "id": "two",
+        "title": "Bridal Makeup",
+        "description": "We specialize in creating stunning bridal makeup for your special day. We start with a personalized consultation to understand your vision and style. Using high-quality products, we ensure a flawless application that enhances your natural beauty. Our goal is to make you feel confident and radiant, tailoring each look to make your wedding day truly unforgettable.",
+        "image": "/ImageProjects/bride.jpg",
+        "urlBtnLive": "url live project",
+        "urlBtnCode": "url code project"
+    },
+
+    {
+        "id": "one",
+        "title": "Manicure",
+        "description": "We provide top-notch manicures, starting with a soothing hand soak, meticulous nail shaping, and cuticle care, followed by a relaxing massage and flawless polish application. Whether you prefer classic elegance or bold designs, we tailor each manicure to your style for a rejuvenating experience every visit.",
+        "image": "/ImageProjects/manicure.jpg",
+        "urlBtnLive": "url live project",
+        "urlBtnCode": "url code project"
+    },
+  
+    {
+        "id": "three",
+        "title": "Pedicure",
+        "description": "We offer exceptional pedicure services to pamper and refresh your feet. Starting with a relaxing foot soak, we provide nail trimming, cuticle care, exfoliation, a soothing massage, and perfect polish application. Each pedicure is tailored to your preferences, ensuring a revitalizing experience every time.",
+        "image": "/ImageProjects/pedicure.jpg",
+        "urlBtnLive": "url live project",
+        "urlBtnCode": "url code project"
+    },
+    {
+        "id": "four",
+        "title": "Hair Treatment",
+        "description": "We provide exceptional hair treatments to revitalize your hair. Our services include nourishing hair spa treatments, precise haircuts, expert coloring, and professional blow dries. Using high-quality products, we ensure your hair looks and feels its best, tailoring each treatment to your needs for a luxurious experience every time.",
+        "image": "/ImageProjects/hair_treatments.jpg",
+        "urlBtnLive": "url live project",
+        "urlBtnCode": "url code project"
+    },
+    {
+        "id": "five",
+        "title": "Waxing",
+        "description": "Using top-quality wax and gentle techniques, we ensure a comfortable hair removal experience. Whether it's eyebrow shaping or full body waxing, our personalized approach caters to your needs, leaving you with beautifully smooth skin after every session.",
+        "image": "/ImageProjects/waxing.jpg",
+        "urlBtnLive": "url live project",
+        "urlBtnCode": "url code project"
+    }
+]
