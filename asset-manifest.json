@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/archana_portfolio/static/css/main.92ca8f1a.css",
+    "main.js": "/archana_portfolio/static/js/main.9588f1f8.js",
+    "static/media/profilImage.png": "/archana_portfolio/static/media/profilImage.129b1eb3a9936574ed5c.png",
+    "index.html": "/archana_portfolio/index.html",
+    "main.92ca8f1a.css.map": "/archana_portfolio/static/css/main.92ca8f1a.css.map",
+    "main.9588f1f8.js.map": "/archana_portfolio/static/js/main.9588f1f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92ca8f1a.css",
+    "static/js/main.9588f1f8.js"
+  ]
+}
